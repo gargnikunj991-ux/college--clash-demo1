@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\college\\My project\\pototype-3d\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE6A236-052B-296F-6E3C-084FD69A8F7E}|Assembly-CSharp.csproj|D:\\college\\My project\\pototype-3d\\assets\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAE6A236-052B-296F-6E3C-084FD69A8F7E}|Assembly-CSharp.csproj|solutionrelative:assets\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE6A236-052B-296F-6E3C-084FD69A8F7E}|Assembly-CSharp.csproj|D:\\college\\My project\\pototype-3d\\assets\\capturezone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAE6A236-052B-296F-6E3C-084FD69A8F7E}|Assembly-CSharp.csproj|solutionrelative:assets\\capturezone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE6A236-052B-296F-6E3C-084FD69A8F7E}|Assembly-CSharp.csproj|d:\\college\\my project\\pototype-3d\\assets\\deathzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAE6A236-052B-296F-6E3C-084FD69A8F7E}|Assembly-CSharp.csproj|solutionrelative:assets\\deathzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE6A236-052B-296F-6E3C-084FD69A8F7E}|Assembly-CSharp.csproj|d:\\college\\my project\\pototype-3d\\assets\\respawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAE6A236-052B-296F-6E3C-084FD69A8F7E}|Assembly-CSharp.csproj|solutionrelative:assets\\respawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE6A236-052B-296F-6E3C-084FD69A8F7E}|Assembly-CSharp.csproj|D:\\college\\My project\\pototype-3d\\assets\\gameuimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAE6A236-052B-296F-6E3C-084FD69A8F7E}|Assembly-CSharp.csproj|solutionrelative:assets\\gameuimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE6A236-052B-296F-6E3C-084FD69A8F7E}|Assembly-CSharp.csproj|D:\\college\\My project\\pototype-3d\\assets\\playerteam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAE6A236-052B-296F-6E3C-084FD69A8F7E}|Assembly-CSharp.csproj|solutionrelative:assets\\playerteam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE6A236-052B-296F-6E3C-084FD69A8F7E}|Assembly-CSharp.csproj|D:\\college\\My project\\pototype-3d\\assets\\botai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAE6A236-052B-296F-6E3C-084FD69A8F7E}|Assembly-CSharp.csproj|solutionrelative:assets\\botai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE6A236-052B-296F-6E3C-084FD69A8F7E}|Assembly-CSharp.csproj|D:\\college\\My project\\pototype-3d\\assets\\pushattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAE6A236-052B-296F-6E3C-084FD69A8F7E}|Assembly-CSharp.csproj|solutionrelative:assets\\pushattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE6A236-052B-296F-6E3C-084FD69A8F7E}|Assembly-CSharp.csproj|D:\\college\\My project\\pototype-3d\\assets\\matchtimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAE6A236-052B-296F-6E3C-084FD69A8F7E}|Assembly-CSharp.csproj|solutionrelative:assets\\matchtimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE6A236-052B-296F-6E3C-084FD69A8F7E}|Assembly-CSharp.csproj|D:\\college\\My project\\pototype-3d\\assets\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAE6A236-052B-296F-6E3C-084FD69A8F7E}|Assembly-CSharp.csproj|solutionrelative:assets\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DeathZone.cs",
+              "DocumentMoniker": "D:\\college\\My project\\pototype-3d\\Assets\\DeathZone.cs",
+              "RelativeDocumentMoniker": "Assets\\DeathZone.cs",
+              "ToolTip": "D:\\college\\My project\\pototype-3d\\Assets\\DeathZone.cs",
+              "RelativeToolTip": "Assets\\DeathZone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T09:14:22.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Respawn.cs",
+              "DocumentMoniker": "D:\\college\\My project\\pototype-3d\\Assets\\Respawn.cs",
+              "RelativeDocumentMoniker": "Assets\\Respawn.cs",
+              "ToolTip": "D:\\college\\My project\\pototype-3d\\Assets\\Respawn.cs",
+              "RelativeToolTip": "Assets\\Respawn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T09:10:28.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameUIManager.cs",
+              "DocumentMoniker": "D:\\college\\My project\\pototype-3d\\Assets\\GameUIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\GameUIManager.cs",
+              "ToolTip": "D:\\college\\My project\\pototype-3d\\Assets\\GameUIManager.cs",
+              "RelativeToolTip": "Assets\\GameUIManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T09:06:12.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerTeam.cs",
+              "DocumentMoniker": "D:\\college\\My project\\pototype-3d\\Assets\\PlayerTeam.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerTeam.cs",
+              "ToolTip": "D:\\college\\My project\\pototype-3d\\Assets\\PlayerTeam.cs",
+              "RelativeToolTip": "Assets\\PlayerTeam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T08:59:10.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BotAI.cs",
+              "DocumentMoniker": "D:\\college\\My project\\pototype-3d\\Assets\\BotAI.cs",
+              "RelativeDocumentMoniker": "Assets\\BotAI.cs",
+              "ToolTip": "D:\\college\\My project\\pototype-3d\\Assets\\BotAI.cs",
+              "RelativeToolTip": "Assets\\BotAI.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAwDEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T08:47:13.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PushAttack.cs",
+              "DocumentMoniker": "D:\\college\\My project\\pototype-3d\\Assets\\PushAttack.cs",
+              "RelativeDocumentMoniker": "Assets\\PushAttack.cs",
+              "ToolTip": "D:\\college\\My project\\pototype-3d\\Assets\\PushAttack.cs",
+              "RelativeToolTip": "Assets\\PushAttack.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T08:38:27.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ScoreManager.cs",
+              "DocumentMoniker": "D:\\college\\My project\\pototype-3d\\Assets\\ScoreManager.cs",
+              "RelativeDocumentMoniker": "Assets\\ScoreManager.cs",
+              "ToolTip": "D:\\college\\My project\\pototype-3d\\Assets\\ScoreManager.cs",
+              "RelativeToolTip": "Assets\\ScoreManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T08:28:01.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MatchTimer.cs",
+              "DocumentMoniker": "D:\\college\\My project\\pototype-3d\\Assets\\MatchTimer.cs",
+              "RelativeDocumentMoniker": "Assets\\MatchTimer.cs",
+              "ToolTip": "D:\\college\\My project\\pototype-3d\\Assets\\MatchTimer.cs",
+              "RelativeToolTip": "Assets\\MatchTimer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T08:16:55.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CaptureZone.cs",
+              "DocumentMoniker": "D:\\college\\My project\\pototype-3d\\Assets\\CaptureZone.cs",
+              "RelativeDocumentMoniker": "Assets\\CaptureZone.cs",
+              "ToolTip": "D:\\college\\My project\\pototype-3d\\Assets\\CaptureZone.cs",
+              "RelativeToolTip": "Assets\\CaptureZone.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T06:03:39.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "D:\\college\\My project\\pototype-3d\\Assets\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerMovement.cs",
+              "ToolTip": "D:\\college\\My project\\pototype-3d\\Assets\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\PlayerMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T05:42:20.954Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
